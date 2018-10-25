@@ -1,2 +1,3 @@
 # pool-robot
-Its a robot in a pool
+Its a robot in a pool.
+Nice.
